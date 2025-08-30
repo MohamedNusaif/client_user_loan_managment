@@ -2,7 +2,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://192.168.8.104:5000', // ✅ your PC's IP
+  baseURL: 'https://a6b814e375e0.ngrok-free.app:5000', // ✅ your PC's IP
   headers: {
     'Content-Type': 'application/json',
   },
