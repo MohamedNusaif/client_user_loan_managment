@@ -45,5 +45,5 @@ Fork the repository
 Create a new branch (git checkout -b feature-name)
 Make your changes and commit (git commit -m "Description")
 Push to your branch (git push origin feature-name)
-Create a Pull Request
+Create a Pull Request.
 
